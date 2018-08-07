@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 05, 2018 Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Setup Redux and created Store, Actions and Reducer
+**Link(s) to work**: [Expense Manger App](https://github.com/kk5190/expensify)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Redux and React is new to me but since I am trying to build a Expense Manager, using a state management library like redux is trivial.
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: August 06, Monday 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Added test cases to test Reducers, Actions, Store and Components using Jest.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: Knowing how to write test cases for your app is important and it helps understand the flow of your app and makes you rethink the processs.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: August 07, Tuesday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Completed writing test cases for all the components and functions using Jest.
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts** Writing test cases can be boring but helps make an application robust..
