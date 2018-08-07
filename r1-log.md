@@ -11,3 +11,8 @@ I already have a React.js app called Expense Manager in Progress. I have worked 
 Added test cases to test Reducers, Actions, Store and Components using Jest.
 
 Learned about Snapshot testing, and various jest function to test dynamic components
+
+### R1D3
+Completed writing test cases for all the components and functions using Jest.
+
+Writing test cases can be boring but helps make an application robust.
