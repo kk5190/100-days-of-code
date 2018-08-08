@@ -17,4 +17,16 @@
 
 **Today's Progress**: Completed writing test cases for all the components and functions using Jest.
 
-**Thoughts** Writing test cases can be boring but helps make an application robust..
+**Thoughts**: Writing test cases can be boring but helps make an application robust..
+
+
+### Day 4: August 08, Wednesday
+
+**Today's Progress**:
+1. Setup Production Build using Webpack
+2. Setup Server using Express
+3. Deployed to Heroku
+4. Stuck with some EPRM error :(
+https://expensify-5190.herokuapp.com
+
+**Thoughts**: None
