@@ -30,3 +30,14 @@
 https://expensify-5190.herokuapp.com
 
 **Thoughts**: None
+
+### Day 5: August 09, Thursday
+
+**Today's Progress**:
+1. Add expense summary to dashboard 
+2. Setup fomatting for amount and createdAt
+3. Integration with firebase
+4. Learning Promises api
+
+**Thoughts**: None
+
