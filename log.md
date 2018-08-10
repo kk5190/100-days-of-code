@@ -41,3 +41,13 @@ https://expensify-5190.herokuapp.com
 
 **Thoughts**: None
 
+### Day 6: August 09, Friday
+
+**Today's Progress**:
+1. Integrated Firebase and Redux 
+2. Created Asynchronous Redux Actions
+3. Test Cases for Asynchronous Redux Actions
+4. Setup Test database for testing test cases
+
+**Thoughts**: Seting up correct environment for development and test is boring and tiresome task.
+
