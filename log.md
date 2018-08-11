@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 05, 2018 Sunday
+### Day 1: August 05, 2018 Sunday
 
 **Today's Progress**: Setup Redux and created Store, Actions and Reducer
 **Link(s) to work**: [Expense Manger App](https://github.com/kk5190/expensify)
 
 **Thoughts:** Redux and React is new to me but since I am trying to build a Expense Manager, using a state management library like redux is trivial.
 
-### Day 1: August 06, Monday 
+### Day 2: August 06, Monday 
 
 **Today's Progress**: Added test cases to test Reducers, Actions, Store and Components using Jest.
 
@@ -41,7 +41,7 @@ https://expensify-5190.herokuapp.com
 
 **Thoughts**: None
 
-### Day 6: August 09, Friday
+### Day 6: August 10, Friday
 
 **Today's Progress**:
 1. Integrated Firebase and Redux 
@@ -50,4 +50,13 @@ https://expensify-5190.herokuapp.com
 4. Setup Test database for testing test cases
 
 **Thoughts**: Seting up correct environment for development and test is boring and tiresome task.
+
+### Day 7: August 11, Friday
+
+**Today's Progress**:
+1. Add functions to add edit remove expenses to firebase
+2. Re wrote the test cases
+3. Started on Authentication with firebase
+
+
 
