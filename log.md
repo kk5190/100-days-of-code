@@ -51,12 +51,22 @@ https://expensify-5190.herokuapp.com
 
 **Thoughts**: Seting up correct environment for development and test is boring and tiresome task.
 
-### Day 7: August 11, Friday
+### Day 7: August 11, Saturday
 
 **Today's Progress**:
 1. Add functions to add edit remove expenses to firebase
 2. Re wrote the test cases
 3. Started on Authentication with firebase
+
+### Day 8: August 12, Sunday
+
+**Today's Progress**:
+1. Created Private and Public routes
+2. Added User Specific CRUD from firebase
+3. Setup rules in firebase to validate and secure db
+4. Added login page style 
+
+
 
 
 
